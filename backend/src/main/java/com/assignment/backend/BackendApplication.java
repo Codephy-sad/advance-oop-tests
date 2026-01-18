@@ -1,13 +1,13 @@
-package com.store.inventory;
+package com.assignment.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InventoryAppApplication {
+public class BackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InventoryAppApplication.class, args);
+		SpringApplication.run(BackendApplication.class, args);
 	}
 
 }
